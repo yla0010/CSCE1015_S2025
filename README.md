@@ -2,9 +2,7 @@
 
 Assignment for Module 9 --- Version Control
 
-## EUID
 
-## Favorite Professor
 
 ## EUID
 yla0010
